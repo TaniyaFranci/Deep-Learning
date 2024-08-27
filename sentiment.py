@@ -116,4 +116,4 @@ def main(train_file_path, test_file_path):
         print(f"The sentiment of the sentence is: {sentiment}")
 
 
-main("C:/Users/Acer/Downloads/trainsenti.csv", "C:/Users/Acer/Downloads/testsenti.csv")
+main("C:/Users/taniya/Downloads/trainsenti.csv", "C:/Users/taniya/Downloads/testsenti.csv")
